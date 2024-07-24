@@ -57,6 +57,7 @@ mdurl==0.1.2
 multidict==6.0.4
 mypy-extensions==1.0.0
 mysqlclient==2.1.1
+libmysqlclient-dev
 natural==0.2.0
 nltk==3.8.1
 numexpr==2.8.4
